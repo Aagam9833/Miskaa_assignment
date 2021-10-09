@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Miskaa assignment</string>
+    <string name="crew_image">Crew Image</string>
+    <string name="refresh">Refresh</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="name">Name:</string>
+    <string name="agency">Agency</string>
+    <string name="status">Status</string>
+    <string name="wikipage">Wikipage</string>
+</resources>
